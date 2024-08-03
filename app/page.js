@@ -204,6 +204,7 @@ export default function Home() {
               sx={gradientButtonStyle}
               >
                 Remove
+              
               </Button>
               </Stack>
             </Box>
