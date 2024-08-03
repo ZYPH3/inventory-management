@@ -163,7 +163,7 @@ export default function Home() {
       <Box width="800px" mb={2}>
         <Box sx={headerStyle}>
           <Box sx={headerTitleStyle}>
-            <Typography variant="h3" color="#000000">
+            <Typography variant="h3" color="#black">
               Inventory Items
             </Typography>
           </Box>
