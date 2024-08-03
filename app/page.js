@@ -184,10 +184,10 @@ export default function Home() {
               padding={5}
               borderBottom="1px solid #333"
             >
-              <Typography variant='h3' color="#000000" textAlign="center">
+              <Typography variant='h3' color="black" textAlign="center">
                 {name.charAt(0).toUpperCase() + name.slice(1)}
               </Typography>
-              <Typography variant='h3' color="#000000" textAlign="center">
+              <Typography variant='h3' color="black" textAlign="center">
                 {quantity}
               </Typography>
               <Stack direction="row" spacing={2}>
