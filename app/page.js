@@ -18,7 +18,7 @@ const style = {
   display: 'flex',
   flexDirection: 'column',
   gap: 3,
-  color: 'black'
+  color: '#black'
 }
 
 const gradientTitleStyle = {
