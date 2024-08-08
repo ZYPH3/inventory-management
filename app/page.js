@@ -118,7 +118,7 @@ export default function Home() {
       gap={2}
       bgcolor="#CACCD1"
     >
-      <Typography variant="h3" sx={gradientTitleStyle}>
+      <Typography variant="h2" sx={gradientTitleStyle}>
         Inventory Management
       </Typography>
       <Modal 
@@ -128,7 +128,7 @@ export default function Home() {
       aria-describedby="modal-modal-description"
       >
         <Box sx={style}>
-          <Typography variant="h6" color="whitebl">
+          <Typography variant="h6" color="white">
             Add Item
           </Typography>
           <Stack width="100%" direction="row" spacing={2}>
